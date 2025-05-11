@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|d:\\doankientructkpm\\likemovie.web\\likemovie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|solutionrelative:likemovie.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|d:\\doankientructkpm\\likemovie.web\\likemovie.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|solutionrelative:likemovie.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|d:\\doankientructkpm\\likemovie.web\\likemovie.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|solutionrelative:likemovie.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40CB558-C2D2-4FDF-B7A6-59F8427260DD}|LikeMovie.Model\\LikeMovie.Model.csproj|d:\\doankientructkpm\\likemovie.web\\likemovie.model\\entities\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40CB558-C2D2-4FDF-B7A6-59F8427260DD}|LikeMovie.Model\\LikeMovie.Model.csproj|solutionrelative:likemovie.model\\entities\\movies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B40CB558-C2D2-4FDF-B7A6-59F8427260DD}|LikeMovie.Model\\LikeMovie.Model.csproj|d:\\doankientructkpm\\likemovie.web\\likemovie.model\\entities\\adminmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B40CB558-C2D2-4FDF-B7A6-59F8427260DD}|LikeMovie.Model\\LikeMovie.Model.csproj|solutionrelative:likemovie.model\\entities\\adminmovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|d:\\doankientructkpm\\likemovie.web\\likemovie.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|solutionrelative:likemovie.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|d:\\doankientructkpm\\likemovie.web\\likemovie.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D66BBD8-83FD-4AD5-AC4B-16EBB6891138}|LikeMovie.Web\\LikeMovie.Web.csproj|solutionrelative:likemovie.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "LikeMovie.Web\\appsettings.json",
+              "ToolTip": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\appsettings.json",
+              "RelativeToolTip": "LikeMovie.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-11T08:24:50.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "LikeMovie.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "LikeMovie.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:24:49.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "LikeMovie.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "LikeMovie.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-11T08:24:48.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Movies.cs",
+              "DocumentMoniker": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Model\\Entities\\Movies.cs",
+              "RelativeDocumentMoniker": "LikeMovie.Model\\Entities\\Movies.cs",
+              "ToolTip": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Model\\Entities\\Movies.cs",
+              "RelativeToolTip": "LikeMovie.Model\\Entities\\Movies.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:20:42.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminMovie.cs",
+              "DocumentMoniker": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Model\\Entities\\AdminMovie.cs",
+              "RelativeDocumentMoniker": "LikeMovie.Model\\Entities\\AdminMovie.cs",
+              "ToolTip": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Model\\Entities\\AdminMovie.cs",
+              "RelativeToolTip": "LikeMovie.Model\\Entities\\AdminMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T08:06:53.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "LikeMovie.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "LikeMovie.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:54:49.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Program.cs",
+              "RelativeDocumentMoniker": "LikeMovie.Web\\Program.cs",
+              "ToolTip": "D:\\DoAnKienTrucTKPM\\LikeMovie.Web\\LikeMovie.Web\\Program.cs",
+              "RelativeToolTip": "LikeMovie.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T07:38:53.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

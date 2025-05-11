@@ -1,0 +1,17 @@
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovie.business.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovie.business.AssemblyInfoInputs.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovie.business.AssemblyInfo.cs
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovie.business.csproj.CoreCompileInputs.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\bin\Debug\net8.0\LikeMovie.business.deps.json
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\bin\Debug\net8.0\LikeMovie.business.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\bin\Debug\net8.0\LikeMovie.business.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\bin\Debug\net8.0\LikeMovie.DataAccess.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\bin\Debug\net8.0\LikeMovie.Model.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\bin\Debug\net8.0\LikeMovie.DataAccess.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\bin\Debug\net8.0\LikeMovie.Model.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovie.business.csproj.AssemblyReference.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovi.AA59EA18.Up2Date
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovie.business.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\refint\LikeMovie.business.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\LikeMovie.business.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.business\obj\Debug\net8.0\ref\LikeMovie.business.dll

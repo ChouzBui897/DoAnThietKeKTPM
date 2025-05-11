@@ -1,0 +1,17 @@
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.AssemblyInfoInputs.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.AssemblyInfo.cs
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.csproj.CoreCompileInputs.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\bin\Debug\net8.0\LikeMovie.DataAccess.deps.json
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\bin\Debug\net8.0\LikeMovie.DataAccess.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\bin\Debug\net8.0\LikeMovie.DataAccess.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\bin\Debug\net8.0\LikeMovie.Model.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\bin\Debug\net8.0\LikeMovie.Model.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.csproj.AssemblyReference.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovi.D0BC35D2.Up2Date
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\refint\LikeMovie.DataAccess.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\ref\LikeMovie.DataAccess.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\bin\Debug\net8.0\LikeMovie.DataAccess.runtimeconfig.json
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.DataAccess\obj\Debug\net8.0\LikeMovie.DataAccess.genruntimeconfig.cache

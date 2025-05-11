@@ -1,0 +1,11 @@
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\LikeMovie.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\LikeMovie.Model.AssemblyInfoInputs.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\LikeMovie.Model.AssemblyInfo.cs
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\LikeMovie.Model.csproj.CoreCompileInputs.cache
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\bin\Debug\net8.0\LikeMovie.Model.deps.json
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\bin\Debug\net8.0\LikeMovie.Model.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\bin\Debug\net8.0\LikeMovie.Model.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\LikeMovie.Model.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\refint\LikeMovie.Model.dll
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\LikeMovie.Model.pdb
+D:\DoAnKienTrucTKPM\LikeMovie.Web\LikeMovie.Model\obj\Debug\net8.0\ref\LikeMovie.Model.dll
